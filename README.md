@@ -1,0 +1,4 @@
+- My name is a-fuuu
+- Nice to meet you!
+- <img src = "https://m.media-amazon.com/images/M/MV5BNmJjOTJkNTUtNWRkMS00MWZhLTg2NWMtNmVjZWRhOGJmNGE3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY100_CR40,0,100,100_AL_.jpg" width="500" height="300">
+- My favorite movie is **Life is beautiful**
