@@ -1,2 +1,1 @@
-- My name is a-fuuu
-- Nice to meet you!
+.
